@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Quick Call Reporter",
+  "description": "A rapid-entry calling report tracker designed to mimic Excel workflows. Select a category and increment counts instantly with a single click or keystroke, featuring automatic totals and visual data analytics.",
+  "requestFramePermissions": []
+}
